@@ -1,0 +1,22 @@
+1. create StudentsController.cs
+
+Right-click the Controllers folder in Solution Explorer and select Add > New Scaffolded Item.
+
+If you can't update, select ADD, and then follow the add controller steps again.
+
+In the Add Scaffold dialog box:
+
+Select MVC controller with views, using Entity Framework.
+
+Click Add.
+
+In the Add Controller dialog box:
+
+In Model class select Student.
+
+In Data context class select SchoolContext.
+
+Accept the default StudentsController as the name.
+
+Click Add.
+
